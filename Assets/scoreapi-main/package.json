@@ -1,0 +1,14 @@
+{
+  "name": "com.ramailogames.scoreapi",
+  "version": "0.3.10",
+  "displayName": "Ramailo Games ScoreAPI",
+  "description": "score API for ramailo games webgl builds \n [IMPORTANT] Call \"ScoreAPI.GameStart\" whenever a gameplay session starts. No longer adds game count when submitting score.",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Studio Redtail",
+    "email": "studio.redtail@gmail.com",
+    "url": "https://redtailstudio.com/"
+  },
+  "hideInEditor": false
+}
